@@ -8,8 +8,8 @@
 // @match        https://lovelive.fannect.jp/collections/*
 // @grant        none
 // @run-at       document-idle
-// @downloadURL  https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/YOUR_BRANCH/LoveLive%20School%20idol%20STORE%20%E8%B4%AD%E7%89%A9%E8%BD%A6.js
-// @updateURL    https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/YOUR_BRANCH/LoveLive%20School%20idol%20STORE%20%E8%B4%AD%E7%89%A9%E8%BD%A6.js
+// @downloadURL  https://raw.githubusercontent.com/yuuuiv/lovelive-add-cart/main/LoveLive%20School%20idol%20STORE%20%E8%B4%AD%E7%89%A9%E8%BD%A6.js
+// @updateURL    https://raw.githubusercontent.com/yuuuiv/lovelive-add-cart/main/LoveLive%20School%20idol%20STORE%20%E8%B4%AD%E7%89%A9%E8%BD%A6.js
 // ==/UserScript==
 
 (() => {
